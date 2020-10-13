@@ -1,7 +1,7 @@
 from django.shortcuts import render
 import csv
 import os
-from task1.app import settings
+from app import settings
 
 
 def inflation_view(request):
